@@ -22,3 +22,5 @@ Run the MyCalculator.java file
 ## Technologies Used
 Java (Swing, AWT)  
 Event Handling for button clicks  
+## Output
+![Screenshot (215)](https://github.com/user-attachments/assets/f3c33a68-4ccd-4c5b-b6e6-762ebea99e88)
