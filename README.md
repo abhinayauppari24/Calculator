@@ -13,10 +13,10 @@ Java Development Kit (JDK) installed (version 8 or above)
 Any IDE like Eclipse, IntelliJ IDEA, or VS Code (or run via terminal)  
 2️⃣ Clone the Repository  
 3️⃣ Compile & Run the Program  
--Using Terminal  
+- Using Terminal  
 javac MyCalculator.java    
 java MyCalculator    
--Using an IDE  
+- Using an IDE  
 Open the project in Eclipse, IntelliJ, or VS Code  
 Run the MyCalculator.java file  
 ## Technologies Used
