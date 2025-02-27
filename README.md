@@ -12,7 +12,6 @@ A simple Java-based GUI calculator built using Swing and AWT, allowing users to 
 Java Development Kit (JDK) installed (version 8 or above)  
 Any IDE like Eclipse, IntelliJ IDEA, or VS Code (or run via terminal)  
 2️⃣ Clone the Repository  
-git clone https://github.com/your-username/MyCalculator.git  
 3️⃣ Compile & Run the Program  
 -Using Terminal  
 javac MyCalculator.java    
